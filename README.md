@@ -1,9 +1,9 @@
 # FAF templator
 One more shitty JavaScript templator.
 
-FAF because it should be Fast As Fuck, but for now it's not.
+FAF because it should be Fast As Fuck, but actually it is not.
 
-!Work In Progress!
+! Work In Progress !
 
 ## Example
 
